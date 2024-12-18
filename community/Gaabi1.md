@@ -3,7 +3,7 @@
 
 Olá meu nome é Gabriela tenho 21 anos, dispertei o interesse por programação durante a graduação por ser uma ferramenta muito útuil para diversas áreas. 😁
  
-Hello, my name is Gabriela, I am 21 years old, I became interested in programming during my undergraduate studies because it is a very useful tool for different areas.😁  
+Hello, my name is Gabriela, I am 22 years old, I became interested in programming during my undergraduate studies because it is a very useful tool for different areas.😁  
 ![Design sem nome](https://github.com/digitalinnovationone/dio-lab-open-source/assets/143514875/d80b67f0-6f1b-4559-b3c1-c3404a614d7d)
 
 
